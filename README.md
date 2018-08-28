@@ -11,4 +11,7 @@ Inspiration and references taken by:
 - [The Definitive Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
 
 # Papers
-- [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_melicher.pdf). Awesome paper where the authors used neural networks to crack passwords
+- [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_melicher.pdf). Awesome paper where the authors used neural networks to quantify password weakness
+
+# Various
+- [SecRepo - Samples of Security Related Data](http://www.secrepo.com/#)
